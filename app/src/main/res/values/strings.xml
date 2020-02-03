@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Order helper</string>
+    <string name="Button_new">Ny order</string>
+    <string name="Button_select_file">Välj fil</string>
+    <string name="Stat_span">Antal dagar statestiken gäller</string>
+    <string name="Order_span">Antal dagar beställningen ska räcka</string>
+    <string name="Order_margin">Marginal %</string>
+    <string name="Button_create_order">Skapa beställning</string>
+    <string name="error_message">Fyll i alla fält!</string>
+</resources>
